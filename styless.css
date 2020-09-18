@@ -1,0 +1,40 @@
+body {
+    width: 100vw;
+    padding: 0 1%;
+    background-color: #696969;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.question {  
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+hearder.h1 {
+    font-size: 35;
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+.answer {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 350px;
+    width: 400px;
+}
+.text-red {
+    color: red;
+}
+#folha {
+    background-color: white;
+    display: flex;
+    justify-content: space between;
+    align-items: center;
+    flex-direction: column;
+    width: 55%;
+    border-radius: 2px;
+    padding: 0 2.5%;
+    width: 100%;
+}
